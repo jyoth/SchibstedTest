@@ -1,5 +1,5 @@
 # SchibstedTest
-Test application for Schibsted
+Test application for Schibsted:
 Technical Description:
 MVVM Architecture
 Codable protocol
